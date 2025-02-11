@@ -1,4 +1,4 @@
 title: My Jekyll Site
 description: My awesome GitHub Pages site.
 #theme: jekyll-theme-primer
-remote_theme: null
+remote_theme: thedevslot/WhatATheme
