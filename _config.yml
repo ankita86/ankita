@@ -1,3 +1,4 @@
 remote_theme: thedevslot/what-a-theme
+
 plugins:
   - jekyll-remote-theme # Enables remote theme support
